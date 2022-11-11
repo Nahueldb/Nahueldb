@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahuel De Brasi</h1>
 <h3 align="center">A Python Developer | Data Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on **Scraping pages**
-
-- 👨‍💻 All of my projects are available at My Github
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **debrasi.nahuel@gmail.com**
