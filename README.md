@@ -2,7 +2,7 @@
 
 Electronics Engineer working on FPGA research and professional software development.
 
-My current work includes digital design in Verilog, cocotb-based simulation, and implementation and validation on FPGA hardware. I also have professional experience developing backend systems and data processing pipelines in Python.
+My current work includes digital design in Verilog, Amaranth, cocotb-based simulation, and implementation and validation on FPGA hardware. I also have professional experience developing backend systems and data processing pipelines in Python.
 
 ## Main interests
 
